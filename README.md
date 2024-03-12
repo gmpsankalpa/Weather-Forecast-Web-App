@@ -16,8 +16,10 @@
 This repository contains the source code for a simple Weather App. The application provides weather information for a specific location, including current conditions, temperature, date and time, and various highlights such as UV index, wind status, sunrise and sunset times, humidity, visibility, and air quality.
 
 ## Screenshot
+
 ![Today](src/image1.png)
 ![week](src/image.png)
+
 ## Demo
 
 Click [here](https://gmpsankalpa.github.io/Weather-Forecast-Web-App/) to view Demo.
