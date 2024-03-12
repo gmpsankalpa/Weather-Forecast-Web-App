@@ -18,8 +18,8 @@ This repository contains the source code for a simple Weather App. The applicati
 ## Screenshot
 
 <div align="center">
-   <img src="src/image1.png" alt="Image 1" width="500">
-   <img src="src/image.png" alt="Image 2" width="500">
+   <img src="src/image1.png" alt="Image 1">
+   <img src="src/image.png" alt="Image 2">
 </div>
 
 ## Demo
