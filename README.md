@@ -1,8 +1,8 @@
 # Weather Forecast Web App
 
-# Deno
-
+## Demo
 Click [here](https://gmpsankalpa.github.io/Weather-Forecast-Web-App/) to view Demo.
+
 ---
 <div align="center">
 
