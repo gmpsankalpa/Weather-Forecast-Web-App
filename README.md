@@ -17,8 +17,10 @@ This repository contains the source code for a simple Weather App. The applicati
 
 ## Screenshot
 
-![Today](src/image1.png)
-![week](src/image.png)
+<div align="center">
+   ![Today](src/image1.png)
+   ![week](src/image.png)
+</div>
 
 ## Demo
 
